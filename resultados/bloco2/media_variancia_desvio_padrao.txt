@@ -1,0 +1,15 @@
+Estatísticas do Chrome Cast[dos dados em log10]: 
+Média bytes_up: 3.3496717251158694bps 
+Variância bytes_up: 0.46160016892790384bps^2 
+Desvio padrão bytes_up: 0.679411634377793bps 
+Média bytes_down: 3.799335488086478bps 
+Variância bytes_down: 1.665979814323226bps^2 
+Desvio padrão bytes_down: 1.2907284045542757bps 
+
+Estatísticas da Smart TV[dos dados em log10]: 
+Média bytes_up: 2.1565902037563727bps 
+Variância bytes_up: 4.1130827523161635bps^2 
+Desvio padrão bytes_up: 2.0280736555451244bps 
+Média bytes_down: 2.350172639895904bps 
+Variância bytes_down: 6.723920763635554bps^2 
+Desvio padrão bytes_down: 2.5930524027939645bps 
